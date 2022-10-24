@@ -1,6 +1,7 @@
 <?php
 	//Set the content type for all endpoints to application/json.
 	header("Content-Type: application/json");
+	//hallo
 
 	use Psr\Http\Message\ResponseInterface as Response;
 	use Psr\Http\Message\ServerRequestInterface as Request;
